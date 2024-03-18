@@ -1,1 +1,1 @@
-Esse projeto é para aprender detalhes do Flask com Python
+Esse projeto é para aprender detalhes do Flask com Python com Professora Alba Lopes
