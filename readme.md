@@ -1,0 +1,1 @@
+Esse projeto é para aprender detalhes do Flask com Python
